@@ -256,15 +256,7 @@ into one system.
 
 ---
 
-## 👥 Team
 
-**Team AB14**
-
-- Devisri
-- Monisha
-- Myagi
-
----
 
 ## ⭐ Key Takeaway
 
